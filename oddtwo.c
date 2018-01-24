@@ -9,11 +9,8 @@ for(i=n;i,=k;i++)
 {
 if(i%2==0)
 {
-
 e[j]=i;
-
-
-j++;
+j++;e
 }
 else
 {
@@ -23,9 +20,8 @@ k++;
 for(i=0;i<j;i++)
 {
 printf("%d",e[i]);
-
 }
 return 0;
 }
-
+e
 
