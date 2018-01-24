@@ -6,14 +6,14 @@ printf("enter the number");
 scanf("%d",&n);
 scanf("%d",&k);
 for(i=n;i,=k;i++)
-{
+{e
 if(i%2==0)
-{
+{e
 e[j]=i;
 j++;e
 }
 else
-{
+{e
 0[k]=i;
 k++;
 }
@@ -23,5 +23,5 @@ printf("%d",e[i]);
 }
 return 0;
 }
-e
+
 
