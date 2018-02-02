@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 int a[max_size],size,i;
 printf("\nEnter the array size ");
@@ -14,5 +14,6 @@ for(i=0;i<=size;i++)
 printf("\n%dThe array values index value",a[i],i);
 }
 }
-return 0;
+getch();
+}
 
