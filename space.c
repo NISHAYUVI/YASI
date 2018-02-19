@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main() 
 {
-  char c[30]="Have A Good day";int i,count=0;
-  for(i=0;i<30;i++)
+  char c[50]="Have A Good day";int i,count=0;
+  for(i=0;i<50;i++)
 
     {
         if(c[i]==' ')
@@ -10,5 +10,4 @@ int main()
     }
         if(count!=0)
        printf("%d spaces",count);
-
 }
